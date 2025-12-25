@@ -30,7 +30,6 @@ El proyecto incluye una visualización comparativa de predicciones vs. valores r
 
 ## 📂 Estructura del Proyecto
 
-- [practica.ipynb]: Notebook principal con análisis de datos, entrenamiento de modelos y evaluación.
+- [prediccion_temperaturas.ipynb]: Notebook principal con análisis de datos, entrenamiento de modelos y evaluación.
 - [cleaned_weather.csv]: Dataset procesado usado para entrenamiento/pruebas.
-- `requirements.txt`: Lista de dependencias necesarias para replicar el entorno.
 
